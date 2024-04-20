@@ -1,4 +1,5 @@
 <?php
+require_once 'ColorTheory.php';
 
 /**
  * Class ComplementaryColorsTheory
